@@ -13,8 +13,9 @@ margin: 0;
 .fntsize{
     font-size: 10px;
 }
-section{ 
+.alsection{ 
     display: flex;
+  
    
 
 }
@@ -27,6 +28,7 @@ section{
     padding-left: 30px;
     width: 50%;
     margin-bottom: 20px;
+    width: 50% !important;
 }
 .half-width img{
     width: 90%;
