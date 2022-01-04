@@ -1,0 +1,49 @@
+body{
+    font-family: 'Inter', sans-serif;
+font-family: 'Merriweather', serif;
+font-size: 18px;
+margin: 0;
+}
+.span{
+    color: orange;
+}
+.fnt1size{
+    font-size: 15px;
+}
+.fntsize{
+    font-size: 10px;
+}
+section{ 
+    display: flex;
+   
+
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.half-width{
+    padding-left: 30px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+.half-width img{
+    width: 90%;
+}
+.anchor{
+    color: white;
+    font-size: 8px;
+    text-decoration: none;
+    background-image: radial-gradient(red, black);
+    border-radius: 8px;
+    padding: 5px 12px;
+}
+.big-dream{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.sndheader{
+    color: orange;
+}
